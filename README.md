@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+##### 😱 Making a repo named after yourself gives you this!
+##### Idk what else to put here...
+
 <!--
 **1spyral/1spyral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

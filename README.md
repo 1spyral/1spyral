@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-##### 😱 Making a repo named after yourself gives you this!
 ##### Check out some of the projects I'm proud of:
 ###### [Eyedentify](https://github.com/andrewchu16/eyedentify)
 ###### [Friend bot](https://github.com/andrewchu16/friend-bot)
 ###### Magic Terrorists: [Client](https://github.com/1spyral/MagicTerrorists-Client) - [Server](https://github.com/Lolz247/MagicTerrorists-Server)
+
+##### 😱 Making a repo named after yourself gives you this!
 
 <!--
 **1spyral/1spyral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

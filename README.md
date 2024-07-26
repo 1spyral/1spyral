@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ##### Check out some of the projects I'm proud of:
-###### [Eyedentify](https://github.com/andrewchu16/eyedentify)
-###### [Friend bot](https://github.com/andrewchu16/friend-bot)
-###### Magic Terrorists: [Client](https://github.com/1spyral/MagicTerrorists-Client) - [Server](https://github.com/Lolz247/MagicTerrorists-Server)
+###### [Eyedentify](https://github.com/andrewchu16/eyedentify) - YRHacks 2023 Winner, (2nd Place Overall, Best Web App)
+###### [Friend bot](https://github.com/andrewchu16/friend-bot) - YRHacks 2022 Winner (Best Use of API)
+###### Magic Terrorists: [Client](https://github.com/1spyral/MagicTerrorists-Client) - [Server](https://github.com/Lolz247/MagicTerrorists-Server) - socket server 2D shooter game in collaboration with [@will2dai4](https://github.com/will2dai4)
 
 ##### 😱 Making a repo named after yourself gives you this!
 

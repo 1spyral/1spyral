@@ -4,7 +4,13 @@
 
 Coming soon!
 
+<details>
+
+  <summary>
+
 ## 🛠️ Skills & Technologies
+
+  </summary>
 
 <div align="center">
 
@@ -240,6 +246,7 @@ Coming soon!
 </tr>
 </table>
 
+</details>
 
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1spyral&show_icons=true&theme=radical&hide_border=true&count_private=true)

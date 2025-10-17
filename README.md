@@ -1,8 +1,12 @@
-# Luke Zhan
-
 ## 🚀 About Me
 
-Coming soon!
+I like long walks on the beach, but I gave them up to code all day. The proper About Me is coming soon. For now, revel in my mystery.
+
+
+## 🎯 What I'm Currently Working On
+
+- I work full time at **[@Shopify](https://github.com/shopify)**. Literally awesome, would recommend
+- My home server. Currently using `docker compose` with way too many poorly configured Nginx reverse proxies stacked in front of each other redundantly. After I switch to Kubernetes it will be chef's kiss!
 
 <details>
 
@@ -251,10 +255,6 @@ Coming soon!
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1spyral&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-
-## 🎯 What I'm Currently Working On
-
-- Coming soon!
 
 ---
 

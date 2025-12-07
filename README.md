@@ -6,8 +6,9 @@ I like long walks on the beach, but I gave them up to code all day. The proper A
 ## 🎯 What I'm Currently Working On
 
 - I work full time at **[@Shopify](https://github.com/shopify)**. Literally awesome, would recommend
-- Solving Advent of Code 2025 this December - [Repo](https://github.com/1spyral/AdventOfCode2025) | [AOC 2025](https://adventofcode.com/)
-- My home server. Currently using `docker compose` with way too many poorly configured Nginx reverse proxies stacked in front of each other redundantly. After I switch to Kubernetes it will be chef's kiss!
+- Solving Advent of Code 2025 - [Repo](https://github.com/1spyral/AdventOfCode2025) | [AOC 2025](https://adventofcode.com/)
+- [Clyde](https://github.com/1spyral/clyde), a Discord bot who sits in your Discord server and acts like a member (or whatever its prompt says). 
+- My [home server](https://github.com/1spyral/home-lab). Bare metal Kubernetes run out of my basement. 
 
 <details>
 

@@ -253,10 +253,6 @@ I like long walks on the beach, but I gave them up to code all day. The proper A
 
 </details>
 
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1spyral&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-
 ---
 
 <div align="center">

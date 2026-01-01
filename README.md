@@ -6,7 +6,7 @@ I like long walks on the beach, but I gave them up to code all day. The proper A
 ## 🎯 What I'm Currently Working On
 
 - Solving Advent of Code 2025 - [Repo](https://github.com/1spyral/AdventOfCode2025) | [AOC 2025](https://adventofcode.com/)
-- [Clyde](https://github.com/1spyral/clyde), a Discord bot who sits in your Discord server and acts like a member (or whatever its prompt says). 
+- [Discord Imp](https://github.com/1spyral/dimp), a Discord bot who sits in your server and pretends to be human (or just behaves based on its prompt). 
 - My [home server](https://github.com/1spyral/home-lab). Bare metal Kubernetes run out of my basement. 
 
 <details>

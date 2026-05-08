@@ -1,12 +1,15 @@
 ## 🚀 About Me
 
-I like long walks on the beach, but I gave them up to code all day. The proper About Me is coming soon. For now, revel in my mystery.
+i like long walks on the beach, but i gave them up to code all day.
+
+- i used to work at Shopify as an infrastructure engineer. i worked on the sre team, where i learned that everything that can go wrong will go wrong, but things are fixable if you learn from your mistakes and build resilient systems
+- before that i worked at a startup called triptogo to build ai agents that create personalized travel itineraries. here i used subagents and dynamic context engineering before it was cool
 
 
 ## 🎯 What I'm Currently Working On
 
-- [Discord Imp](https://github.com/1spyral/dimp), a Discord bot who sits in your server and pretends to be human (or just behaves based on its prompt). 
-- My [home server](https://github.com/1spyral/home-lab). Bare metal Kubernetes run out of my basement. 
+- building [Altara](https:/altara.co) - we're hiring cracked engineers. [apply now](https://www.altara.co/careers) to help build the future of the physical world
+- my [home server](https://github.com/1spyral/home-lab). bare metal Kubernetes run out of my basement
 
 <details>
 

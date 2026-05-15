@@ -8,7 +8,7 @@ i like long walks on the beach, but i gave them up to code all day.
 
 ## 🎯 What I'm Currently Working On
 
-- building [Altara](https:/altara.co) - we're hiring cracked engineers. [apply now](https://www.altara.co/careers) to help build the future of the physical world
+- building [Altara](https://altara.co) - we're hiring cracked engineers. [apply now](https://www.altara.co/careers) to help build the future of the physical world
 - my [home server](https://github.com/1spyral/home-lab). bare metal Kubernetes run out of my basement
 
 <details>

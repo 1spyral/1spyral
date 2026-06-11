@@ -2,14 +2,14 @@
 
 i like long walks on the beach, but i gave them up to code all day.
 
-- i used to work at Shopify as an infrastructure engineer. i worked on the sre team, where i learned that everything that can go wrong will go wrong, but things are fixable if you learn from your mistakes and build resilient systems
+- i used to work at shopify as an infrastructure engineer. i worked on the sre team, where i learned that everything that can go wrong will go wrong, but things are fixable if you learn from your mistakes and build resilient systems
 - before that i worked at a startup called triptogo to build ai agents that create personalized travel itineraries. here i used subagents and dynamic context engineering before it was cool
 
 
 ## 🎯 What I'm Currently Working On
 
-- building [Altara](https://altara.co) - we're hiring cracked engineers. [apply now](https://www.altara.co/careers) to help build the future of the physical world
-- my [home server](https://github.com/1spyral/home-lab). bare metal Kubernetes run out of my basement
+- building [altara](https://altara.co) - we're hiring cracked engineers. [apply now](https://www.altara.co/careers) to help build the future of the physical world
+- my [home server](https://github.com/1spyral/home-lab). bare metal kubernetes run out of my basement
 
 <details>
 
